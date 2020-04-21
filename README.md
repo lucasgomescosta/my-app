@@ -10,20 +10,19 @@
 
 ## 💻 Project
 
-Be The Hero is a project that aims to connect people who are willing to help ONGs.
+Este projeto consiste em pesquisar repositórios do github através da Api que o mesmo disponibilizam. Os repositórios pesquisados são salvos no LocalStorage do Navegador. Ao clicar em um repositório será aberta uma tela onde será mostrado alguns detalhes daquele repositório entre as informaões temos: nome, descrição, issues e etc.
 
 
 ## :rocket: Technologies
 
-This project was developed with the following technologies:
-
+Este projeto foi desenvolvido com as seguintes tecnologias
 - [React](https://reactjs.org)
 
 ## 🔖 Layout
 ## Frontend
 <div style={display: 'flex' flex-direction: 'column'>
-<img alt="inicio" title="#BeTheHero" src="https://github.com/lucasgomescosta/my-app/blob/master/images/tela%20inicial.PNG" width="750px" />
-<img alt="onicio" title="#BeTheHero" src="https://github.com/lucasgomescosta/my-app/blob/master/images/tela%20inicial%201.PNG" width="750px" />
-<img alt="details" title="#BeTheHero" src="https://github.com/lucasgomescosta/my-app/blob/master/images/Details%200.PNG" width="950px" />
+<img alt="inicio" title="#BeTheHero" src="https://github.com/lucasgomescosta/my-app/blob/master/images/tela%20inicial.PNG" height="450px" width="950px" />
+<img alt="onicio" title="#BeTheHero" src="https://github.com/lucasgomescosta/my-app/blob/master/images/tela%20inicial%201.PNG" width="950px" />
+<img alt="details" title="#BeTheHero" src="https://github.com/lucasgomescosta/my-app/blob/master/images/Details%200.PNG" height="450px" width="950px" />
   
   </div>
