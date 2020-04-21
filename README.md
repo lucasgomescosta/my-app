@@ -10,7 +10,7 @@
 
 ## 💻 Project
 
-Este projeto consiste em pesquisar repositórios do github através da Api que o mesmo disponibilizam. Os repositórios pesquisados são salvos no LocalStorage do Navegador. Ao clicar em um repositório será aberta uma tela onde será mostrado alguns detalhes daquele repositório entre as informaões temos: nome, descrição, issues e etc.
+Este projeto consiste em pesquisar repositórios do github através da Api que o mesmo disponibilizam. Os repositórios pesquisados são salvos no LocalStorage do Navegador. Ao clicar em um repositório será aberta uma tela onde será mostrado alguns detalhes daquele repositório entre as informaões temos: nome, descrição, issues e etc. Na tela de detalhes do repositório é possível navegar entre às issues abertas, fechadas e mostrado por página 5 issues.  
 
 
 ## :rocket: Technologies
